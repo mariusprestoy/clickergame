@@ -3,3 +3,6 @@ privacy-policy
 This app does not collect, store, or share any personal information.
 The game is played locally on your device only. No data is transmitted or stored by FireFilms.
 If you have any questions, please contact us at mariusprestoy@gmail.com.
+
+© 2025 FireFilms. Certain UI assets provided by Kenney (https://kenney.nl) under CC0 license.
+
